@@ -20,7 +20,7 @@
 
 <a href="https://bloomui.com/product/tokyo-free-white-react-typescript-material-ui-admin-dashboard/"><h3>Free React Typescript Admin Dashboard Template built with Material-UI</h3></a>
 <p>
-    This free and open source admin dashboard template is built for React and it’s bootstrapped from Facebook’s create-react-app. All NPM dependencies are up to date and it contains multiple fully customized components based on the popular frontend components framework, Material-UI.
+   🎆🎇 This free and open source admin dashboard template is built for React and it’s bootstrapped from Facebook’s create-react-app. All NPM dependencies are up to date and it contains multiple fully customized components based on the popular frontend components framework, Material-UI.
 </p>
 <p>
 Tokyo Free White Typescript Dashboard features a nice classic light & clean design and color scheme.
